@@ -1,0 +1,16 @@
+#questsToComplete {
+  display: none;
+}
+
+li {
+  list-style: none;
+}
+
+.newQuest {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.newQuest:hover {
+  text-decoration: underline;
+}
